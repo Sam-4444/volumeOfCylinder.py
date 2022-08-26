@@ -1,4 +1,4 @@
-# volume of cylinder
+# volume of cylinder   getting user input
 
 height=float(input("enter the height of cylinder and press enter ! "))
 radius=float(input("enter the radios of cylinder and press enter ! "))
